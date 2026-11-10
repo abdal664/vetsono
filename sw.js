@@ -3,8 +3,7 @@ const FILES = [
   "/vetsono/",
   "/vetsono/index.html",
   "/vetsono/manifest.webmanifest",
-  "/vetsono/icon-192.png",
-  "/vetsono/icon-512.png"
+
 ];
 
 self.addEventListener("install", event => {
